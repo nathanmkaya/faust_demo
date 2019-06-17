@@ -1,0 +1,5 @@
+faust==1.7.0
+faust[rocksdb,uvloop,fast,redis]
+Flask
+Flask-Restplus
+kafka-python
